@@ -1,7 +1,7 @@
 import react from "react"
 import data from "@/data/Resources.json"
 import { useRouter } from "next/router"
-export default function index(){
+export default function Resources(){
   const router = useRouter()
   let preCss = [
     "to-green-500",
@@ -12,7 +12,7 @@ export default function index(){
   <div className="hero-content text-center">
     <div className="max-w-md">
       <h1 className="text-5xl font-bold">Resources of the server.</h1>
-      <p className="py-6">Need help on the server, You're at the right place</p>
+      <p className="py-6">Need help on the server, You&apos;re at the right place</p>
       <button className="btn btn-primary">Get Started</button>
     </div>
   </div>

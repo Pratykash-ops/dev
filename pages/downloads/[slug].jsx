@@ -16,7 +16,7 @@ export default function Downloads() {
             {Config && <title>Download - {Config.name}</title>}
         </Head>
     <div className="hero min-h-screen bg-base-200">
-  {Config && <div className="hero-content flex-col lg:flex-row">
+  {Config && <div className="hero-content flex-col lg:flex-row px-28">
     <img src={Config.icon || "https://wallpapers.com/images/hd/question-mark-background-ttf33i45n9e32jzb.jpg"} className="max-w-sm rounded-lg shadow-2xl" />
     <div>
       <h1 className="text-5xl font-bold">{Config.name}</h1>

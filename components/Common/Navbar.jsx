@@ -52,11 +52,7 @@ export default function Navbar() {
     </ul>
   </div>
   <div className="navbar-end">
-    {user ? <div className="avatar">
-      <div onClick={()=>router.push("/account")} className="w-8 rounded-full ring-1 ring-green-400 ring-offset-base-100 ring-offset-2">
-        <img src="https://mc-heads.net/avatar/king/100" />
-      </div>
-</div>:
+    {
     <Link href={"/login"}>
       <LoginBtn/>
     </Link>}

@@ -68,7 +68,7 @@ export default function Home() {
         </div>
         <p className="text-lg font-bold font-sans">Announcement</p>
         <div className="text-sm py-2 font-mono">
-          In this new season we're renting the server from a exoroton, players
+          In this new season we&apos;re renting the server from a exoroton, players
           are asked to donate a lumpsum or pay monthly charge of ₹60 for the
           well being of the server.
         </div>
@@ -242,12 +242,12 @@ export default function Home() {
                 <time className="font-mono italic text-normal">Mar 2022</time>
                 <div className="text-lg font-black">Our First SMP</div>
                 SMP kicked off with 8 mates, a warehouse, and big dreams. Java,
-                Bedrock – everyone’s invited to the block party! Together, we
+                Bedrock – everyone&apos;s invited to the block party! Together, we
                 built a Town Hall, drafted a Constitution (the blocky Bill of
                 Rights), and turned the server into a lively virtual hangout.
                 Cheers to the ongoing saga of SMP - where pixels meet pals, and
                 every day is a new adventure! Join the fun, because who said
-                building friendships can't be a blast? 🎮🌟
+                building friendships can&apos;t be a blast? 🎮🌟
               </div>
               <hr />
             </li>
@@ -270,14 +270,14 @@ export default function Home() {
               <div className="timeline-end mb-10">
                 <time className="font-mono italic text-normal">Sept 2022</time>
                 <div className="text-lg font-black">A Only Bedrock SMP</div>
-                In September '22, our Bedrock SMP journey kicked off with
+                In September &apos;22, our Bedrock SMP journey kicked off with
                 medieval dreams. Some went full castle mode, others took a
                 different path - chaos embraced, and our SMP became beautifully
                 broken. Kingdom walls and castle laughs defined our Bedrock
                 brotherhood. The theme got a bit lost, but our community found
                 its groove. Cheers to the glorious mess and the bond that makes
                 SMP a Bedrock haven. Medieval vibes may have scattered, but the
-                fun's intact. Join the bedlam, celebrate the chaos, and let's
+                fun&apos;s intact. Join the bedlam, celebrate the chaos, and let&apos;s
                 keep the Bedrock adventures rolling! 🌟🎮
               </div>
               <hr />
@@ -311,7 +311,7 @@ export default function Home() {
                 every build had a tale. With factions named Hyosan and Germany,
                 we added a touch of friendly rivalry to the mix. Join the fun,
                 celebrate the laughs, and dive into the memories that made the
-                first Hyosan SMP a hit! Here's to creativity, chaos, and
+                first Hyosan SMP a hit! Here&apos;s to creativity, chaos, and
                 countless adventures! 🏡🎉
               </div>
               <hr />
