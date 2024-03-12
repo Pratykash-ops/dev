@@ -1,0 +1,33 @@
+{
+    "downloads" : [
+        {
+            "name" : "Minecraft Pocket Edition",
+            "icon" : "https://static.wikia.nocookie.net/minecraft/images/f/f3/PocketEditionNewIcon.png/revision/latest/scale-to-width/360?cb=20160417234446",
+            "desc" : "Version: 1.20.4",
+            "downloadLink" : "https://download.wetransfer.com/eugv/d913edbea27f213e66014f6b16a4521b20240224105818/ad6753dd8203a0becd0d6c0fe772ef1e0a912f99/minecraft-1-20-41.apk?cf=y&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImRlZmF1bHQifQ.eyJleHAiOjE3MDg3NzI5ODcsImlhdCI6MTcwODc3MjM4NywiZG93bmxvYWRfaWQiOiIxMWExZjA1MS1hMjY3LTRlMTgtOTMxNi1iNTViYjZhNDA3NDYiLCJzdG9yYWdlX3NlcnZpY2UiOiJzdG9ybSJ9.uPw5HS9_d5wtmloTizGvs9OCDupsx8J2uZT1dRIeRAE",
+            "slug" : "mc-pe",
+            "details" : [
+                
+            ]
+        },        {
+            "name" : "Minecraft Java Edition (Cracked)",
+            "icon" : "https://www.freeiconspng.com/thumbs/minecraft-png-icon/minecraft-icon-0.png",
+            "desc" : "Version: 1.20.4",
+            "downloadLink" : "https://tlauncher.org/installer",
+            "slug" : "mc-je",
+            "details" : [
+                
+            ]
+        },
+        {
+            "name" : "Minecraft Pocket Edition",
+            "icon" : null,
+            "desc" : "All server Commands",
+            "downloadLink" : "",
+            "slug" : "commands",
+            "details" : [
+                
+            ]
+        }
+    ]
+}
