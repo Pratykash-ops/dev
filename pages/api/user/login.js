@@ -1,6 +1,6 @@
-import sql from "@/db/connector";
-import jwt from "jsonwebtoken";
-import bcrypt from "bcrypt";
+// import sql from "@/db/connector";
+// import jwt from "jsonwebtoken";
+// import bcrypt from "bcrypt";
 export default async function handler(req, res) {
   if (req.method == "POST") {
     // const { username, email, password: Cpass } = req.body;

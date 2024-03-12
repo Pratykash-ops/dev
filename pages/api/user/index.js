@@ -1,5 +1,5 @@
-import jwt from "jsonwebtoken"
-import sql from "@/db/connector";
+// import jwt from "jsonwebtoken"
+// import sql from "@/db/connector";
 export default async function handler(req, res) {
     if(req.method=="GET"){
         // const token = req.query.token;
